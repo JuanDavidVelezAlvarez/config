@@ -3,3 +3,4 @@ server:
 logging:
   level:
     service1: DEBUG
+greeting: hi
